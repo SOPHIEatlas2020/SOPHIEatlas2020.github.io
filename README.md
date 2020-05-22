@@ -1,3 +1,3 @@
 # SOPHIEatlas2020.github.io
 
-POints in the middle of the atlandtica are "global" or "multicontintental", and have no one fixed location
+Points placed in the middle of the Atlantic ocean are "global" or "multicontintental", and have no one fixed location
